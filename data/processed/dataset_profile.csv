@@ -1,0 +1,9 @@
+dataset,rows,columns,duplicates,memory_mb
+customers,99441,5,0,26.59
+items,112650,7,0,35.99
+payments,103886,5,0,16.23
+reviews,99224,7,0,39.12
+orders,99441,8,0,52.94
+products,32951,9,0,6.3
+sellers,3095,4,0,0.59
+geolocation,1000163,5,261831,130.26

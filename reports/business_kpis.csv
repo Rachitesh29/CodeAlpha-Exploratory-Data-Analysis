@@ -1,0 +1,2 @@
+total_orders,unique_customers,total_payment_value,average_payment_per_order,delivered_orders,cancelled_orders,average_review_score,average_delivery_days
+99441,99441,16008872.120000001,160.98864774087147,96478,625,4.08642062404257,12.558702304032053

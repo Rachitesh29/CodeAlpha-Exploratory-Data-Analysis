@@ -1,0 +1,27 @@
+OLIST E-COMMERCE - EXPLORATORY DATA ANALYSIS
+============================================================
+
+BUSINESS OVERVIEW
+Total orders: 99,441
+Unique customers: 99,441
+Total payment value: BRL 16,008,872.12
+Average payment value per order: BRL 160.99
+Delivered orders: 96,478
+Cancelled orders: 625
+Average review score: 4.09/5
+Average delivery time: 12.56 days
+
+KEY FINDINGS
+Top category by item revenue: beleza_saude
+Most common payment method: credit_card
+
+INTERPRETATION
+- Order status helps identify operational performance.
+- Monthly revenue shows business growth patterns.
+- Product categories highlight sales concentration.
+- Review scores provide customer satisfaction signals.
+- Delivery time helps evaluate logistics performance.
+
+NOTE
+Revenue uses recorded payment values. Category revenue uses item prices.
+The two measures have different definitions.
